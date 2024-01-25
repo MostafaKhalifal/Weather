@@ -1,4 +1,4 @@
-Weather Project
+# Weather Project
 
 This simple command-line weather project allows you to check the current weather for a specified country or city. It retrieves data from the OpenWeatherMap API and presents it in a user-friendly format.
 Features
@@ -7,7 +7,7 @@ Features
     Provides a visual representation of the weather through icons.
     Supports various weather conditions, making it easy to understand at a glance.
 
-Prerequisites
+# Prerequisites
 
 Before using this weather project, ensure you have the following installed:
 
@@ -23,7 +23,7 @@ bash
 
 pip install argparse pyfiglet simple_chalk requests
 
-Usage
+# Usage
 
 To check the weather for a specific country or city, run the following command:
 
@@ -40,7 +40,7 @@ python
 
 api = "YOUR_API_KEY"
 
-Weather Icons
+# Weather Icons
 
 The project uses emojis to represent different weather conditions. Here are some examples:
 
@@ -51,7 +51,7 @@ The project uses emojis to represent different weather conditions. Here are some
     🌨 Snow
     🌫 Mist
 
-Example
+# Example
 
 bash
 
